@@ -1,0 +1,948 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "fUZJbfAsUAg9NXesRix4auw3gqk",
+    "nextPageToken": "EAAaelBUOkNCUWlFRGc0UWpjMVJqRXhOamxFTnpBNFJqRW9BVWlBdzltR2c2aUdBMUFCV2pZaVEyaG9WbFpVUm5aalJXaFdZMjVqTkdOdVduVmpNa1pyVmtNeGNGSXpRVE5STW1OVFEzZHFhelJqVjNsQ2FFTkJOazFPY0NJ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lnuAzQoGApb8xZLF2AEJaZ1WY3k",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLkpOcHlSM0lVZzJJ",
+            "snippet": {
+                "publishedAt": "2024-05-25T05:02:26Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【FCマリオ3】残機０で即終了スーパーマリオブラザーズ3 完結編【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/_Ponono_desu\n\n【ルール】\n・残機がなくなってゲームオーバーになったら終わり\n・ワープ（笛）禁止\n・セーブ禁止\n・無限UP禁止\n・巻き戻し機能禁止\n・コンテニュー禁止\n・台パン禁止\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JNpyR3IUg2I/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JNpyR3IUg2I/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JNpyR3IUg2I/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JNpyR3IUg2I/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JNpyR3IUg2I/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JNpyR3IUg2I"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RJEo2JIA9l4Mhs8ydKS8Uv8ce74",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLmxJNHEwTjVBaTc0",
+            "snippet": {
+                "publishedAt": "2024-05-24T12:55:38Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【FCマリオ3】残機０で即終了スーパーマリオブラザーズ3【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/_Ponono_desu\n\n【ルール】\n・残機がなくなってゲームオーバーになったら終わり\n・全コースクリア\n・セーブ禁止\n・無限UP禁止\n・巻き戻し機能禁止\n・コンテニュー禁止\n・台パン禁止\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lI4q0N5Ai74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lI4q0N5Ai74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lI4q0N5Ai74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lI4q0N5Ai74/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lI4q0N5Ai74/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lI4q0N5Ai74"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ANja9OGHr2D2E00J4olv6xDS4uQ",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLk5vOUluN2VKZ3Y0",
+            "snippet": {
+                "publishedAt": "2024-05-22T12:39:02Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【DON'T SCREAM】叫んだら終了するホラゲークリアするまでやる！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/ashua445\n\n本ゲームは Digital Cybercherries に確認の上配信・収益化を行なっております。\nhttps://store.steampowered.com/app/2497900/DONT_SCREAM/\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/No9In7eJgv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/No9In7eJgv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/No9In7eJgv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/No9In7eJgv4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/No9In7eJgv4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "No9In7eJgv4"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hzR8JOYOepSUO63ghjsAh5nhUZM",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLmJvQTV3cTZ4MktB",
+            "snippet": {
+                "publishedAt": "2024-05-21T13:23:01Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【FCマリオ】残機０で即終了スーパーマリオブラザーズ【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/_Ponono_desu\n\n【ルール】\n・残機がなくなってゲームオーバーになったら終わり\n・セーブ禁止\n・ワープ禁止無限UP禁止\n・巻き戻し機能禁止\n・コンテニュー禁止\n・台パン禁止\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/boA5wq6x2KA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/boA5wq6x2KA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/boA5wq6x2KA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/boA5wq6x2KA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/boA5wq6x2KA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "boA5wq6x2KA"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aVJgQLwGERgHtD3C0F9U616jTcM",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLkIwbzdsTV9MTW13",
+            "snippet": {
+                "publishedAt": "2024-05-20T13:16:43Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【歌枠】しっとりバラード多めのえもすぎるうたわく【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/Sco_ttie\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/\n\nカラオケ歌っちゃ王 \n@uta-cha-oh\nカラオケ音源とかのやつ\n@karaoke_toka\nHiroのピアノ伴奏アレンジ\n@HiroPiano\nJPOP Karaoke カラオケ \n@jpopkaraoke8120\nOKE-sound\n@OKE-sound",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B0o7lM_LMmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B0o7lM_LMmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B0o7lM_LMmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B0o7lM_LMmw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B0o7lM_LMmw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B0o7lM_LMmw"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2IBqO06_HENSAVY4PfSfu332dro",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLllKaGhZbjF4bm5N",
+            "snippet": {
+                "publishedAt": "2024-05-19T13:46:05Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#8【Minecraft】ホロ鯖ハードコアマイクラ！最終回！！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YJhhYn1xnnM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YJhhYn1xnnM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YJhhYn1xnnM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YJhhYn1xnnM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YJhhYn1xnnM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YJhhYn1xnnM"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2-nxhIJIQrz97yGIpHjJnQKgyjU",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLmlPRkxTeFJEUmVF",
+            "snippet": {
+                "publishedAt": "2024-05-18T16:01:55Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#7【Minecraft】ホロ鯖ハードコアマイクラ！打倒ウィザー！！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iOFLSxRDReE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iOFLSxRDReE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iOFLSxRDReE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iOFLSxRDReE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iOFLSxRDReE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iOFLSxRDReE"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "g-dQDmFRXLQZDFfWJB08Ak0bMkg",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLjZiZHVoYy02Q0tZ",
+            "snippet": {
+                "publishedAt": "2024-05-18T08:43:58Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【学園アイドルマスター】新作アイマスでアイドルをプロデュースする！※ネタバレあり【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/kurokanin\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/videopolicy/\n©Bandai Namco Entertainment Inc.\n\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6bduhc-6CKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6bduhc-6CKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6bduhc-6CKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6bduhc-6CKY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6bduhc-6CKY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6bduhc-6CKY"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VFQTSzAfFzDcxsg_mfWT9ZC7NBk",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLmJZNG94Uk9KbEtB",
+            "snippet": {
+                "publishedAt": "2024-05-17T15:55:33Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#6【Minecraft】転生したら犬だった件【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://x.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bY4oxROJlKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bY4oxROJlKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bY4oxROJlKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bY4oxROJlKA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bY4oxROJlKA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bY4oxROJlKA"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HymzD7v8UoCtkQsRUaKqmIVEl4c",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLm0zU0V6ZVI5R1VB",
+            "snippet": {
+                "publishedAt": "2024-05-16T17:10:43Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#5【Minecraft】死亡・・・・裁判・・・そして・・・・【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m3SEzeR9GUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m3SEzeR9GUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m3SEzeR9GUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m3SEzeR9GUA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m3SEzeR9GUA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m3SEzeR9GUA"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z62xe9QZop9tbEGLu6BrqCyJuOM",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLlJPdEY2QUlka19N",
+            "snippet": {
+                "publishedAt": "2024-05-16T06:38:01Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#4【Minecraft】ホロ鯖ハードコアマイクラ！！！！！４日目！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ROtF6AIdk_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ROtF6AIdk_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ROtF6AIdk_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ROtF6AIdk_M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ROtF6AIdk_M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ROtF6AIdk_M"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OgVt4DmO-ZAOTl1AMbvkJKSXoVo",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLnBJZTNlZUxvS1hF",
+            "snippet": {
+                "publishedAt": "2024-05-15T16:09:10Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#3【Minecraft】ホロ鯖ハードコアマイクラ！！！！！３日目！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pIe3eeLoKXE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pIe3eeLoKXE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pIe3eeLoKXE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pIe3eeLoKXE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pIe3eeLoKXE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pIe3eeLoKXE"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EIWL-ryXQRZMjaeQRYdtkRF_Ies",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLlZldHA1cUJENmdn",
+            "snippet": {
+                "publishedAt": "2024-05-14T16:48:17Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#2【Minecraft】ホロ鯖ハードコアマイクラ！！！！！２日目！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vetp5qBD6gg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vetp5qBD6gg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vetp5qBD6gg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vetp5qBD6gg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vetp5qBD6gg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vetp5qBD6gg"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "75u0W-b8CYUMcinpLd23JUdl3uc",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLjF5QnZJUEtNRVlr",
+            "snippet": {
+                "publishedAt": "2024-05-13T18:31:22Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#1【Minecraft】ホロ鯖ハードコアマイクラやるぞおおおおおお！！！！！！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/xdarjeelingxtea\n\n【ルール】\n・5月13日~20日の期間限定\n・死んだら終わり\n・最終目標はエンドラとウィザーの討伐\n・ネザー開通は4日目から\n・配信終了時に日誌の提出\n\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/\n\n\n===================================\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)  に基づいて配信・収益化を行なっております\n===================================",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1yBvIPKMEYk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1yBvIPKMEYk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1yBvIPKMEYk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1yBvIPKMEYk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1yBvIPKMEYk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1yBvIPKMEYk"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TUrzkoFP6VNnPHRXLSzHayyuGbU",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLk8zUUVkZmJiZEpV",
+            "snippet": {
+                "publishedAt": "2024-05-11T08:54:21Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【ELDEN RING】打倒裏ボス！？エルデンリングやるよおおおおおお！！！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/summer_tail720\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております\nhttps://www.fromsoftware.jp/jp/guidelines_video.html\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O3QEdfbbdJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O3QEdfbbdJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O3QEdfbbdJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O3QEdfbbdJU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O3QEdfbbdJU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O3QEdfbbdJU"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lNJC9_eb1XAajSvMuImOIxfds88",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLmRwd1l0SVRySnY4",
+            "snippet": {
+                "publishedAt": "2024-05-10T16:45:31Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【耐久】岩を転がすゲームで頂上目指す！【湊あくあ/ホロライブ】",
+                "description": "頂上までいけるか！？\n\n本ゲームは cream に確認の上配信・収益化を行なっております。\n\nサムネイルのイラスト：https://twitter.com/tea_partyxblue\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dpwYtITrJv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dpwYtITrJv8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dpwYtITrJv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dpwYtITrJv8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dpwYtITrJv8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dpwYtITrJv8"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B2uMdKTA-HAwrQ_jlksD3SX709Y",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLnZ3WVR4dkJBTkhR",
+            "snippet": {
+                "publishedAt": "2024-05-09T12:54:34Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【#あくたん200万人】２００万人いくまで耐久歌枠！！！！！【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/umaiyo_puyoman\n\nみんなで一緒に迎えたい！！！がんばるぞ！！！！\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/\n\nカラオケ歌っちゃ王 \n@uta-cha-oh\nカラオケ音源とかのやつ\n@karaoke_toka\nHiroのピアノ伴奏アレンジ\n@HiroPiano\nJPOP Karaoke カラオケ \n@jpopkaraoke8120\nOKE-sound\n@OKE-sound",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vwYTxvBANHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vwYTxvBANHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vwYTxvBANHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vwYTxvBANHQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vwYTxvBANHQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vwYTxvBANHQ"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xkkBWdLeNNcOiUwhN8cnIHJXmVg",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLlBKQUhrSUJnM3Aw",
+            "snippet": {
+                "publishedAt": "2024-05-08T15:19:56Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【#あくぺこ並走対決】岩を転がして頂上目指すゲームで勝負！！！！！！！！！！あく！【ホロライブ/湊あくあ】",
+                "description": "ぺこ！\n\n勝負相手@usadapekora \n\n本ゲームは cream に確認の上配信・収益化を行なっております。\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PJAHkIBg3p0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PJAHkIBg3p0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PJAHkIBg3p0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PJAHkIBg3p0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PJAHkIBg3p0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PJAHkIBg3p0"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YYb2YU4F-tis3mz7ZRPsET4sF78",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLmdEaGVVMmN3Q3BR",
+            "snippet": {
+                "publishedAt": "2024-05-07T14:34:40Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "【#あくぺこ並走対決】岩を転がして頂上目指すゲームで勝負！！！！！！！！！！あく！【ホロライブ/湊あくあ】",
+                "description": "負けないぺこ！\n\n勝負相手@usadapekora \n\n本ゲームは cream に確認の上配信・収益化を行なっております。\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gDheU2cwCpQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gDheU2cwCpQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gDheU2cwCpQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gDheU2cwCpQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gDheU2cwCpQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gDheU2cwCpQ"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MvZD0_Ig-Xdg1IDVpRd3x3kvbC4",
+            "id": "VVUxb3BIVXJ3OHJ2bnNhZFQtaUdwN0NnLjNPZTZzTmJ2MlRN",
+            "snippet": {
+                "publishedAt": "2024-05-06T08:36:10Z",
+                "channelId": "UC1opHUrw8rvnsadT-iGp7Cg",
+                "title": "#7【ELDEN RING】最終回！！！！エルデンリングの王になる！！！！劇場版ファイナルラスト【湊あくあ/ホロライブ】",
+                "description": "サムネイルのイラスト：https://twitter.com/summer_tail720\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております\nhttps://www.fromsoftware.jp/jp/guidelines_video.html\n\n⚓10th Original Song「エイムに愛されしガール」配信中！\nhttps://cover.lnk.to/GirllovedbyAim\n\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓My twitter\nhttps://twitter.com/minatoaqua \n\n⚓湊あくあ\u3000メンバーシップ⚓\nあくあクルー隊員募集中です！ \nメンバーシップ限定生放送や限定バッジなど特典盛りだくさん✨✨\n登録はここから➡https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/join\n\n⚓配信の切り抜きや実況、スクショツイートは#湊あくあ生放送 で！\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁ \n⚓湊あくあ\u3000オリジナルグッズ・ボイス情報⚓\n⚓『オリジナルNEKO Tシャツ』 https://hololive.booth.pm/items/2120562\n⚓『はじめてのオリジナル個人ボイス』 https://hololive.booth.pm/items/1161272\n⚓『2周年記念アクリルキーホルダー』https://hololive.booth.pm/items/2258633\n⚓Click here for the international purchase page！⚓\nhttps://www.geekjack.net/minato_aqua\n▷◁－－－－－－－－－－－－－－－－－－－－－－－－－▷◁\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Oe6sNbv2TM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Oe6sNbv2TM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Oe6sNbv2TM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Oe6sNbv2TM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3Oe6sNbv2TM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Aqua Ch. 湊あくあ",
+                "playlistId": "UU1opHUrw8rvnsadT-iGp7Cg",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3Oe6sNbv2TM"
+                },
+                "videoOwnerChannelTitle": "Aqua Ch. 湊あくあ",
+                "videoOwnerChannelId": "UC1opHUrw8rvnsadT-iGp7Cg"
+            }
+        }
+    ],
+    "pageInfo": {"totalResults": 644, "resultsPerPage": 20}
+}
