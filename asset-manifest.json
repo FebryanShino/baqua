@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/baqua/static/css/main.94b6f4b7.css",
-    "main.js": "/baqua/static/js/main.ccec88d3.js",
+    "main.js": "/baqua/static/js/main.be724ff2.js",
     "static/js/453.69e748cd.chunk.js": "/baqua/static/js/453.69e748cd.chunk.js",
     "index.html": "/baqua/index.html",
     "main.94b6f4b7.css.map": "/baqua/static/css/main.94b6f4b7.css.map",
-    "main.ccec88d3.js.map": "/baqua/static/js/main.ccec88d3.js.map",
+    "main.be724ff2.js.map": "/baqua/static/js/main.be724ff2.js.map",
     "453.69e748cd.chunk.js.map": "/baqua/static/js/453.69e748cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94b6f4b7.css",
-    "static/js/main.ccec88d3.js"
+    "static/js/main.be724ff2.js"
   ]
 }
